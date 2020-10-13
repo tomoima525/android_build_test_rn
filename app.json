@@ -1,0 +1,12 @@
+{
+  "name": "build-test",
+  "displayName": "build-test",
+  "expo": {
+    "name": "build-test",
+    "slug": "build-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
