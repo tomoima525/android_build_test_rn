@@ -8,7 +8,7 @@ To reporoduce the issue, ran command below
 
 ```
 $ cd android
-$ ./gradlew assembleRelease
+$ ./gradlew clean :app:assembleRelease
 ```
 
 app-release.apk will be generated but it does not have index.android.bundle build
