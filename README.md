@@ -6,7 +6,7 @@ https://github.com/tomoima525/android_build_test_rn/commit/4a1b48b26cc51e117f348
 
 ## Reproducible case
 
-To reporoduce the issue, ran command below
+To reproduce the issue, run the command below
 
 ```
 $ cd android
